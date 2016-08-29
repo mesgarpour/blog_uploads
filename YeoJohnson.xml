@@ -1,6 +1,6 @@
 <Module>
-<ModulePrefs title=”Custom Gadget“/>
-<Content type=”html“>
+<ModulePrefs title="Custom Gadget - YeoJohnson.py"/>
+<Content type="html">
 <![CDATA[
 <script src="https://gist.github.com/mesgarpour/f24769cd186e2db853957b10ff6b7a95.js"></script>]]>
 </Content>
