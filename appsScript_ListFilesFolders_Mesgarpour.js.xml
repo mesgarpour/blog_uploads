@@ -1,6 +1,6 @@
 <Module>
-<ModulePrefs title=”Custom Gadget“/>
-<Content type=”html“>
+<ModulePrefs title="Custom Gadget - appsScript_ListFilesFolders_Mesgarpour.js"/>
+<Content type="html">
 <![CDATA[
 <script src="https://gist.github.com/mesgarpour/07317e81e9ee2b3f1699.js"></script>]]>
 </Content>
