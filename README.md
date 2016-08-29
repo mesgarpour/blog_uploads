@@ -1,1 +1,1 @@
-# File uploads for the blog
+# File uploads for the [DeuceCode.com blog] (http://www.deucecode.com/)
